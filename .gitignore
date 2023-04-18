@@ -1,3 +1,6 @@
 *.xmf
 *.txt
 log.log
+ats_vis*
+observation.dat
+
